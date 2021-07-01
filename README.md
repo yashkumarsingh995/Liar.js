@@ -1,4 +1,5 @@
 # Liar.js
+# Library functions implementations on Array
 A javascript based library written from scratch for various algorithmic functions applicable on arrays while writing a code
 
 
